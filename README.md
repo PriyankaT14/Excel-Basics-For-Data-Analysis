@@ -11,10 +11,10 @@
      5.	Check the Spelling
      6.	Remove Whitespace(double-spaces) by using Find and Replace feature
      7.	Use Flash Fill to reduce Department names from two columns to one column and remove unnecessary columns.
-                  Department
-                  Board of Elections
-                  Circuit Court
-                  Community Engagement Cluster
+                       Department
+                       Board of Elections
+                       Circuit Court
+                       Community Engagement Cluster
      8.	Save Workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX
 
 ### PART: 2
