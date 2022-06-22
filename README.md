@@ -35,7 +35,7 @@
      7.	Save Workbook as Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX
 
 
-## Excel Data Visualization:
+## Data Visualization Using Excel:
 ### Creating Charts for Following Captured KPI metrics:
     1.	Quantity Sold by Dealer ID: Bar chart Ascending or Descending order of quantity sold, Chart title’Quantity Sold by Dealer Id’.
     2.	Profit by Date and Model: Line chart, Chart title’Profit by Date and Model’.
